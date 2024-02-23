@@ -11,10 +11,7 @@
 
 The goals / steps of this project are the following:
 
-* Compute the camera calibration matrix and distortion coefficients given a set of chessboard images.
-* Apply a distortion correction to raw images.
-* Use color transforms, gradients, etc., to create a thresholded binary image.
-* Apply a perspective transform to rectify binary image ("birds-eye view").
+Advanced lane detection is a computer vision technique used in autonomous vehicles and driver assistance systems to robustly identify lane boundaries on roads. Unlike basic lane detection, which often struggles with challenging conditions like varying lighting, road curvature, and occlusions, advanced lane detection methods employ more sophisticated algorithms and techniques to improve accuracy and reliability.
 * Detect lane pixels and fit to find the lane boundary.
 * Determine the curvature of the lane and vehicle position with respect to center.
 * Warp the detected lane boundaries back onto the original image.
